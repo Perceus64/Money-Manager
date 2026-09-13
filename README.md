@@ -19,16 +19,6 @@ A lightweight, single-file personal finance tracker you can run entirely in the 
 - **PDF export** — download a formatted transactions list or a full report (totals, category breakdown, monthly summary)
 - **Local storage** — your data, custom categories, currency, and theme are all saved in the browser between visits; nothing is sent to a server
 
-## Getting Started
-
-### Option 1: Just open it
-Download `index.html` and open it directly in any modern browser. That's it.
-
-### Option 2: Host it on GitHub Pages
-1. Push `index.html` to a repository (e.g. as the only file, or inside a `/docs` folder on the `main` branch).
-2. In your repo, go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to the branch/folder containing `index.html`.
-4. Save — GitHub will give you a URL like `https://yourusername.github.io/repo-name/`.
 
 ## Usage
 
